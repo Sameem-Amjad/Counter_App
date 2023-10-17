@@ -1,5 +1,8 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+###Counter App
+**The React Native Counter App is a user-friendly application for incrementing and decrementing a numeric value. With a visually appealing sky-blue background and a centered title, it offers a pleasant user experience. Users can increase the counter by pressing the '+' button or decrease it with the '-' button. The app provides validation, ensuring that the number remains greater than 0. It employs toast notifications to alert users when they attempt to decrement below zero. The design is responsive, adapting to various screen sizes, and the straightforward interface makes it suitable for a wide range of mobile devices.**
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
